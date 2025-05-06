@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488826452242",
+    "project_id": "vall-assignment",
+    "storage_bucket": "vall-assignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488826452242:android:499cb01d260e3a1caa9bcb",
+        "android_client_info": {
+          "package_name": "com.vall.assignment.app.vallassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ulrt-HNfVuhrHo35P7scw9dRak37fT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
